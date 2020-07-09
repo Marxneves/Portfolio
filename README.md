@@ -11,7 +11,7 @@ Portfólio pessoal realizado como atividade da Trybe para desenvolvimento pessoa
 <li>CSS</li>
 </ul>
 
-<a href="https://marxneves.github.io/Trybe/PortfolioHTML"> Pagina do Portfólio</a>
+<a href="https://marxneves.github.io/Portfolio/"> Pagina do Portfólio</a>
 <hr>
 
 Made by Marx Khristie.
